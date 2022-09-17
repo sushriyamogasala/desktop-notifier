@@ -44,7 +44,7 @@ This is how the cute notifier reminds me to take a break🥰
 ### Happy coding🔥,Enjoy Developing😈,Keep exploring🧗‍♀️!!!!!
 
 
-![AngryCatGIF](https://user-images.githubusercontent.com/104165177/189944268-31083764-b3b8-4f0a-86b4-830dd44e232b.gif)
+<img src="https://user-images.githubusercontent.com/104165177/189944268-31083764-b3b8-4f0a-86b4-830dd44e232b.gif" width="300" height="300">
 
 .........................Don't feel shy to give a star😉😌.................................
 
