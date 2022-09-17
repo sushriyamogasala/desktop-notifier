@@ -1,8 +1,8 @@
-# <h1 align="center">💌CUTE NOTIFIER💌</h1>
+# <h1 align="center">💌 CUTE NOTIFIER 💌</h1>
 This project is mainly inspired from the notifications we receive daily 📥. My curiosity made me explore how notifications are received and also build a notifier of my own.
 * Cute notifier project is a notification system or simply a remainder application that reminds or notifies the user to take a break during periodic time intervals⏲️.
 
-## What is a notification 🔔🔔?
+## What is a notification 🔔🔔 ?
 * A notification is a small piece of text that appears on the desktop or mobile screen when an application wants you to pay attention. 
 * Notifications are a way to let you know that something new has happened so you don't miss anything that might be worth your attention and appears whether you are using an application or not.
 * Well desktop notifications are generally displayed at the botton left corner of the screen.
@@ -11,11 +11,11 @@ This project is mainly inspired from the notifications we receive daily 📥. My
 
 ![image](https://user-images.githubusercontent.com/104165177/189940978-0f53766f-f7a7-4293-ae17-c0b19e730205.png)
 
-## Technologies used💻:
+## Technologies used 💻:
 * Python
 * Plyer
 
-### What is Python🐍?
+### What is Python 🐍?
 * Python is a popular programming language.
 
 It is used for:
@@ -39,7 +39,7 @@ This is how the cute notifier reminds me to take a break🥰
 
 ![image](https://user-images.githubusercontent.com/104165177/189943183-57bebaf5-df50-487c-b51d-e2588696bf05.png)
 
-## Thank you🙏😇
+### Thank you🙏😇
 
 ### Happy coding🔥,Enjoy Developing😈,Keep exploring🧗‍♀️!!!!!
 
