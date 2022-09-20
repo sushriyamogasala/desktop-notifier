@@ -2,7 +2,7 @@
 This project is mainly inspired from the notifications we receive daily 📥. My curiosity made me explore how notifications are received and also build a notifier of my own.
 * Cute notifier project is a notification system or simply a remainder application that reminds or notifies the user to take a break during periodic time intervals⏲️.
 
-## What is a notification🔔🔔?
+## What is a notification 🔔?
 * A notification is a small piece of text that appears on the desktop or mobile screen when an application wants you to pay attention. 
 * Notifications are a way to let you know that something new has happened so you don't miss anything that might be worth your attention and appears whether you are using an application or not.
 * Well desktop notifications are generally displayed at the botton left corner of the screen.
