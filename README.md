@@ -1,4 +1,4 @@
-# <h2 align="center">💌 CUTE NOTIFIER 💌</h2>
+# <h2 align="center">💌 DESKTOP NOTIFIER 💌</h2>
 This project is mainly inspired from the notifications we receive daily 📥. My curiosity made me explore how notifications are received and also build a notifier of my own.
 * Cute notifier project is a notification system or simply a remainder application that reminds or notifies the user to take a break during periodic time intervals⏲️.
 
